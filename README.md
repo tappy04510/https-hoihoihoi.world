@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
-  <title>株式会社Megchan Mtuber事務所　「ホイホイホイ」　</title>
+  <title>株式会社Long ago Mtuber事務所　「ロングアゴー」　</title>
   <style>
     body { font-family: sans-serif; background: #fff0f5; margin: 0; }
     header, footer { background: #ff69b4; color: white; text-align: center; padding: 20px; }
@@ -14,7 +14,7 @@
 </head>
 <body>
   <header>
-    <h1>🎀 株式会社Megchan Mtuber事務所 　「ホイホイホイ」🎀</h1>
+    <h1>🎀 株式会社Long ago Mtuber事務所 　「ロングアゴー」🎀</h1>
     <p>未来のスターを育てるバーチャルタレント事務所</p>
   </header>
 
@@ -33,7 +33,7 @@
       <p><a href="#">YouTube</a> | <a href="#">Twitter</a></p>
     </div>
     <div class="talent">
-      <h3>ゆめこ / Yumeko</h3>
+      <h3>たらこ / Tarako</h3>
       <p>癒し系ASMRと雑談が得意な幻想Vtuber。</p>
       <p><a href="#">YouTube</a> | <a href="#">Twitter</a></p>
     </div>
@@ -42,8 +42,8 @@
   <section id="news">
     <h2>📰 最新情報</h2>
     <ul>
-      <li>新メンバー「ミラ」デビュー決定！</li>
-      <li>夏のグッズフェア開催中！</li>
+      <li>新メンバー「ダックス」デビュー決定！</li>
+      <li>夏のドッグフェア開催中！</li>
     </ul>
   </section>
 
@@ -54,11 +54,11 @@
 
   <section id="contact">
     <h2>📮 お問い合わせ</h2>
-    <p>📧 mtuber@megchan.co.jp</p>
+    <p>📧 mtuber@Longago.co.jp</p>
   </section>
 
   <footer>
-    <p>&copy; 2025 株式会社Megchan Mtuber事務所　「ホイホイホイ」</p>
+    <p>&copy; 2025 株式会社Long ago Mtuber事務所　「ロングアゴー」</p>
   </footer>
 </body>
 </html>
